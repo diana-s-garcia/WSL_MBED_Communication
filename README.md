@@ -49,6 +49,7 @@ Steps:
 
 ## Hardware Setups
 1. Connect MED to PC with USB cable
+2. Add any connections on the MBED that you want to turn on/off.
 
 ## Youtube Video
 [Link](https://www.youtube.com/watch?v=D3uV4TH-VVE)
