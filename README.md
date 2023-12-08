@@ -10,6 +10,7 @@ This can abstract some of the underlying complexity of the mbed.
 ## Instructions
 
 [Connecting USB device to WSL](https://learn.microsoft.com/en-us/windows/wsl/connect-usb)
+
 Requirements:
 - Windows 11
 - Machine with x64/x86 processor
