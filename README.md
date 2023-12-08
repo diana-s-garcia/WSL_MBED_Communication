@@ -3,6 +3,9 @@ ECE 4180 Final Project
 By Diana Garcia & Ritarka Samanta
 
 ## Project Idea
+It would be quite convenient if we could interact with the mbed as another pluggable piece of hardware.
+To this end, we attempted to create an interface for an user to quickly write commands on a WSL terminal and see the changes taking place in the mbed.
+This can abstract some of the underlying complexity of the mbed.
 
 ## Instructions
 
@@ -41,7 +44,7 @@ Steps:
 17. Watch youtube video linked below for example commands
 
 ## Hardware Setups
-1. Connect MED to device with USB cable
+1. Connect MED to PC with USB cable
 
 ## Youtube Video
 [Link](https://www.youtube.com/watch?v=D3uV4TH-VVE)
