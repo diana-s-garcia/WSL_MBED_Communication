@@ -21,7 +21,7 @@ Requirements:
   ![Alt text](https://os.mbed.com/media/platforms/lpc1768_pinout.png "mbed")
 
 Steps:
-1. Download mbed program and compile in Keil Studio.
+1. Download mbed program called FINAL_PROJECT_MBED_TEST_Diana_CURR.LCP1766 (4).bin in the github.
 2. Upload to MED
 3. Download latest [usbipd-win.msi](https://github.com/dorssel/usbipd-win/releases)
 4. Run msi file
@@ -42,9 +42,10 @@ Steps:
 ```
       usbipd wsl attach --busid <busid>
 ```
-15. Open Ubuntu  
-16. Compile program using "g++ runWSL.cpp" and "./a.out"
-17. Watch youtube video linked below for example commands
+15.Download runWSL.cpp from GitHub link.
+16. Open Ubuntu  
+17. Compile program using "g++ runWSL.cpp" and "./a.out"
+18. Watch youtube video linked below for example commands
 
 ## Hardware Setups
 1. Connect MED to PC with USB cable
@@ -53,4 +54,4 @@ Steps:
 [Link](https://www.youtube.com/watch?v=D3uV4TH-VVE)
 
 ## Github Link
-[Link](https://www.youtube.com/watch?v=D3uV4TH-VVE)
+[Link](https://github.com/diana-s-garcia/WSL_MBED_Communication)
