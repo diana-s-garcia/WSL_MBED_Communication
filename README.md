@@ -18,7 +18,7 @@ Requirements:
 - Linux set to WSL 2
 - Linux kernel 5.10.60.1 or later
 
-  ![alt text](https://os.mbed.com/media/platforms/lpc1768_pinout.png)
+  ![Alt text](https://os.mbed.com/media/platforms/lpc1768_pinout.png "mbed")
 
 Steps:
 1. Download mbed program and compile in Keil Studio.
