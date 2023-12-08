@@ -18,6 +18,8 @@ Requirements:
 - Linux set to WSL 2
 - Linux kernel 5.10.60.1 or later
 
+  ![alt text](https://os.mbed.com/media/platforms/lpc1768_pinout.png)
+
 Steps:
 1. Download mbed program and compile in Keil Studio.
 2. Upload to MED
@@ -41,11 +43,14 @@ Steps:
       usbipd wsl attach --busid <busid>
 ```
 15. Open Ubuntu  
-16. Compile program using g++ and run
+16. Compile program using "g++ runWSL.cpp" and "./a.out"
 17. Watch youtube video linked below for example commands
 
 ## Hardware Setups
 1. Connect MED to PC with USB cable
 
 ## Youtube Video
+[Link](https://www.youtube.com/watch?v=D3uV4TH-VVE)
+
+## Github Link
 [Link](https://www.youtube.com/watch?v=D3uV4TH-VVE)
